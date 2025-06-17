@@ -1,0 +1,215 @@
+{
+  "cookies": [
+    {
+      "name": "MUID",
+      "value": "15B3B201B1376D4E2D9EA40FB0606C4E",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1783856532.093915,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPTC",
+      "value": "WVc1Pb-WfD1oj55FnpurMVclsRVjLomKZlPCBQIxe3k",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1783856531.323101,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "f22bcf89712340939cc99a1469d87234.20250617.20260617",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1781696530.520411,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1750765332.093967,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "15B3B201B1376D4E2D9EA40FB0606C4E",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1783856532.093989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "15B3B201B1376D4E2D9EA40FB0606C4E",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1783856532.14397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1750765332.144011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1750161132.14405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookieyes-consent",
+      "value": "consentid:cXprT0hBbkdaWkNQTk1jRzVzUmk0b3ozZ05mWklrWUM,consent:no,action:,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no",
+      "domain": ".noji.io",
+      "path": "/",
+      "expires": 1781696531,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AnkiProToken",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJpZCI6NzExNjkzMywiYXZhdGFyQ29sb3IiOnsibGlnaHQiOiIjRkYzNzVCIiwiZGFyayI6IiNGRjVDNkMifSwiYXZhdGFyVXJsIjpudWxsLCJuYW1lIjoiUG91cmlhIiwibmV3QXJjaGl0ZWN0dXJlIjp0cnVlLCJ1c2VybmFtZSI6InBvdXJpYW1vdXNhdmkiLCJhYm91dCI6bnVsbCwiYW5hbHl0aWNzSWQiOiJmNWUwNTU3MWQwNDM2MTNkMWMyZmU2MGFhYTkyZTYyNGRkZjc2ODRiNTFkYzk3MzIiLCJjb3VudHJ5Q29kZSI6IlNFIiwiZW1haWwiOiJwb3VyaWEuY29udGFjdEBnbWFpbC5jb20iLCJleHBlcmltZW50cyI6eyJwdXNoX2JhZGdlIjoidGVzdCIsImFpX2ZlYXR1cmVzIjoidGVzdCIsImltYWdlX3NlYXJjaCI6InRlc3QiLCJvZmZsaW5lX21vZGUiOiJ0ZXN0Iiwib25ib2FyZGluZ192MyI6ImNvbnRyb2wiLCJtYWluX3NjcmVlbl9leHAxIjoiY29udHJvbCIsInBlcmZfaW1wcm92X2JhdGNoIjoidGVzdCIsImFsZ29yaXRobV9zZXR0aW5ncyI6InRlc3QiLCJsZWF2ZV9yZXZpZXdfaG9va3MiOiJ0ZXN0X2N1dGUiLCJ3ZWJfbWFpbl9zY3JlZW5fZXhwMSI6InRlc3RfcmVnX2J0biIsImxpYnJhcnlfc29jaWFsX3Byb29mMSI6InRlc3QiLCJuZXdfY2FyZHNfcGVyX2RheV91cGQiOiJkaXNhYmxlZCIsInJ0ZV9haV9pbXByb3ZlbWVudHNfMSI6InRlc3RfYXNzaXN0Iiwid2ViX2NvbG9yZnVsX3BheXdhbGxzIjoiZGlzYWJsZWQiLCJiYWNrX3RvX3NjaG9vbF9wYXl3YWxsIjoiY29udHJvbCIsIm9uYm9hcmRpbmdfaW1wcm92ZW1lbnRzIjoidGVzdCIsInN0cmVha19zYXZlcl9leHBlcmltZW50IjoidGVzdCIsInNlbGVjdF9hbmRfc2VhcmNoX2Jhbm5lciI6ImNvbnRyb2wiLCJ3ZWJfYW5udWFsX2Rpc2NvdW50X2Jhbm5lciI6InRlc3QifSwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicHJlbWl1bSI6ZmFsc2UsInByb3ZpZGVyIjoiZ29vZ2xlIiwib25ib2FyZGluZ0RhdGEiOnsibGFuZ3VhZ2VGb2N1cyI6ImJvdGgiLCJsYW5ndWFnZUtleSI6ImVuZ2xpc2giLCJsYW5ndWFnZUxldmVsIjoiZmx1ZW50In0sInN0YXRzQ291bnRlcnMiOnsiY2FyZHNDcmVhdGVkIjoxMzQsImNhcmRzU3R1ZGllZCI6Mjk0fSwic3RyZWFrIjp7ImN1cnJlbnREdXJhdGlvbiI6MCwiYXZhaWxhYmxlRnJlZXplQ291bnQiOjAsInRvdGFsQWN0aXZlRGF5cyI6MTAsImxvbmdlc3REdXJhdGlvbiI6NSwibmV4dEZyZWV6ZU1pbmltdW1TdHJlYWsiOjcsInRvZGF5Q29tcGxldGVkIjpmYWxzZSwidG9kYXlTaG93biI6ZmFsc2V9LCJzdWJzY3JpcHRpb24iOm51bGwsInN1YnNjcmlwdGlvblByb3ZpZGVyIjpudWxsLCJxb25JZCI6ImRkZWYwZDFhOGU2NjRlODY5OTI3ZTA0ZDU1MDQwOTYxIiwiZnJlZVRpZXIiOnsiYWlHZW5XaXRoUHJvbXB0IjoyLCJhaUdlbldpdGhQZGYiOjEwMCwiYWlHZW5DYXJkQnVpbGRlciI6MH0sImNyZWF0ZWRBdCI6MTc0NzA4MjI5Nn0.ljFsh19Gicm2WtyS7s8zuJa0N6i1dhVKpY7Y8Vrq2E0",
+      "domain": "noji.io",
+      "path": "/",
+      "expires": 1781696531,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amp_79f9d3",
+      "value": "okgTvyqGEHa_gQKuNOHHbs.ZjVlMDU1NzFkMDQzNjEzZDFjMmZlNjBhYWE5MmU2MjRkZGY3Njg0YjUxZGM5NzMy..1itur4nbn.1itur4oln.2.1.3",
+      "domain": ".noji.io",
+      "path": "/",
+      "expires": 1781696532,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://noji.io",
+      "localStorage": [
+        {
+          "name": "SyncStorage_kWhatsNewShownVersions",
+          "value": "\"{\\\"2.12.1\\\":\\\"true\\\"}\""
+        },
+        {
+          "name": "persist:debug",
+          "value": "{\"isDebugOverlayVisible\":\"false\",\"isLoggingEnabled\":\"false\",\"debugOverlayPosition\":\"null\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "user_id",
+          "value": "f5e05571d043613d1c2fe60aaa92e624ddf7684b51dc9732"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 12 Jul 2026 11:42:10 GMT"
+        },
+        {
+          "name": "persist:activity",
+          "value": "{\"activeDays\":\"[]\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:aiTemplates",
+          "value": "{\"aiTemplates\":\"[]\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:offline",
+          "value": "{\"isWiFiOnly\":\"false\",\"isOfflineTestEnabled\":\"false\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "1a501e304b7011f0a2c83fa617b9b87c"
+        },
+        {
+          "name": "persist:library",
+          "value": "{\"decks\":\"[]\",\"categories\":\"[]\",\"_persist\":\"{\\\"version\\\":2,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:decks",
+          "value": "{\"decks\":\"[{\\\"algorithmPreset\\\":\\\"general\\\",\\\"algorithmType\\\":\\\"spacedRepetition\\\",\\\"attachmentsSupported\\\":true,\\\"cardPresetId\\\":7,\\\"clonedFromId\\\":null,\\\"clonedFromLibrary\\\":false,\\\"collaboration\\\":{\\\"count\\\":0,\\\"role\\\":\\\"owner\\\",\\\"state\\\":\\\"disabled\\\"},\\\"configuration\\\":{\\\"newCards\\\":{\\\"newCardsPerDay\\\":10},\\\"maxCards\\\":{\\\"maxCardsPerDay\\\":3000}},\\\"folderId\\\":null,\\\"fontSettings\\\":{\\\"desktop\\\":null,\\\"tablet\\\":null,\\\"phone\\\":{\\\"size\\\":20,\\\"alignment\\\":\\\"center\\\",\\\"fontFamily\\\":\\\"montserrat\\\"}},\\\"frozenCardsCount\\\":0,\\\"gotItCardsCount\\\":null,\\\"graduatedCardsCount\\\":36,\\\"graduatedTotalCardsCount\\\":49,\\\"hasChanges\\\":false,\\\"id\\\":23757922,\\\"importInProgress\\\":false,\\\"importedFromFile\\\":false,\\\"isAllowedToReport\\\":false,\\\"isReversedCardModeAvailable\\\":true,\\\"isRootDeck\\\":false,\\\"isSpeedLearningAvailable\\\":true,\\\"learntTodayCount\\\":0,\\\"learningCardsCount\\\":5,\\\"learningTotalCardsCount\\\":5,\\\"librarySharingEnabled\\\":false,\\\"name\\\":\\\"Nudge\\\",\\\"newCardsCount\\\":0,\\\"nextCardAppearsAt\\\":null,\\\"noCardsLimit\\\":false,\\\"notesDuplicatingCounters\\\":null,\\\"notesImportCounters\\\":null,\\\"notesReverseCounters\\\":null,\\\"offlineAvailableCount\\\":41,\\\"offlineModeEnabled\\\":false,\\\"owner\\\":{\\\"id\\\":7116933,\\\"avatarColor\\\":{\\\"light\\\":\\\"#FF375B\\\",\\\"dark\\\":\\\"#FF5C6C\\\"},\\\"avatarUrl\\\":null,\\\"name\\\":\\\"Pouria\\\",\\\"newArchitecture\\\":true,\\\"username\\\":\\\"pouriamousavi\\\",\\\"role\\\":\\\"owner\\\"},\\\"publicDeck\\\":null,\\\"reviewLeft\\\":false,\\\"sharingEnabled\\\":false,\\\"sharingLink\\\":\\\"https://noji.io/shared_deck/v2_sMXTNzQQqs_7116933\\\",\\\"sharingToken\\\":\\\"v2_sMXTNzQQqs_7116933\\\",\\\"shuffleCardsEnabled\\\":true,\\\"source\\\":\\\"imported_csv\\\",\\\"state\\\":\\\"active\\\",\\\"studyAgainCardsCount\\\":null,\\\"templatesIds\\\":[\\\"front_to_back\\\"],\\\"toLearnTodayTotalCount\\\":41,\\\"totalCardsCount\\\":54,\\\"totalNotStudiedCount\\\":0,\\\"totalToReviewCount\\\":54,\\\"ttsAutoplayEnabled\\\":false,\\\"ttsBackSideLanguage\\\":\\\"en-US\\\",\\\"ttsEnabled\\\":false,\\\"ttsFrontSideLanguage\\\":\\\"en-US\\\",\\\"ttsSlowerReplay\\\":false,\\\"ttsSpeed\\\":1,\\\"ttsWholeCardPronunciation\\\":false},{\\\"algorithmPreset\\\":\\\"general\\\",\\\"algorithmType\\\":\\\"spacedRepetition\\\",\\\"attachmentsSupported\\\":true,\\\"cardPresetId\\\":7,\\\"clonedFromId\\\":null,\\\"clonedFromLibrary\\\":false,\\\"collaboration\\\":{\\\"count\\\":0,\\\"role\\\":\\\"owner\\\",\\\"state\\\":\\\"disabled\\\"},\\\"configuration\\\":{\\\"newCards\\\":{\\\"newCardsPerDay\\\":10},\\\"maxCards\\\":{\\\"maxCardsPerDay\\\":3000}},\\\"folderId\\\":null,\\\"fontSettings\\\":{\\\"desktop\\\":null,\\\"tablet\\\":null,\\\"phone\\\":{\\\"size\\\":20,\\\"alignment\\\":\\\"center\\\",\\\"fontFamily\\\":\\\"montserrat\\\"}},\\\"frozenCardsCount\\\":3,\\\"gotItCardsCount\\\":null,\\\"graduatedCardsCount\\\":54,\\\"graduatedTotalCardsCount\\\":67,\\\"hasChanges\\\":false,\\\"id\\\":24169732,\\\"importInProgress\\\":false,\\\"importedFromFile\\\":false,\\\"isAllowedToReport\\\":false,\\\"isReversedCardModeAvailable\\\":true,\\\"isRootDeck\\\":true,\\\"isSpeedLearningAvailable\\\":true,\\\"learntTodayCount\\\":0,\\\"learningCardsCount\\\":22,\\\"learningTotalCardsCount\\\":22,\\\"librarySharingEnabled\\\":false,\\\"name\\\":\\\"Advanced English Vocabulary for Daily Life\\\",\\\"newCardsCount\\\":10,\\\"nextCardAppearsAt\\\":null,\\\"noCardsLimit\\\":false,\\\"notesDuplicatingCounters\\\":null,\\\"notesImportCounters\\\":null,\\\"notesReverseCounters\\\":null,\\\"offlineAvailableCount\\\":76,\\\"offlineModeEnabled\\\":false,\\\"owner\\\":{\\\"id\\\":7116933,\\\"avatarColor\\\":{\\\"light\\\":\\\"#FF375B\\\",\\\"dark\\\":\\\"#FF5C6C\\\"},\\\"avatarUrl\\\":null,\\\"name\\\":\\\"Pouria\\\",\\\"newArchitecture\\\":true,\\\"username\\\":\\\"pouriamousavi\\\",\\\"role\\\":\\\"owner\\\"},\\\"publicDeck\\\":null,\\\"reviewLeft\\\":false,\\\"sharingEnabled\\\":false,\\\"sharingLink\\\":\\\"https://noji.io/shared_deck/v2_r9NGQm2jZA_7116933\\\",\\\"sharingToken\\\":\\\"v2_r9NGQm2jZA_7116933\\\",\\\"shuffleCardsEnabled\\\":true,\\\"source\\\":\\\"created_ai_prompt\\\",\\\"state\\\":\\\"active\\\",\\\"studyAgainCardsCount\\\":null,\\\"templatesIds\\\":[\\\"front_to_back\\\"],\\\"toLearnTodayTotalCount\\\":86,\\\"totalCardsCount\\\":170,\\\"totalNotStudiedCount\\\":78,\\\"totalToReviewCount\\\":89,\\\"ttsAutoplayEnabled\\\":false,\\\"ttsBackSideLanguage\\\":\\\"en-US\\\",\\\"ttsEnabled\\\":false,\\\"ttsFrontSideLanguage\\\":\\\"en-US\\\",\\\"ttsSlowerReplay\\\":false,\\\"ttsSpeed\\\":1,\\\"ttsWholeCardPronunciation\\\":false}]\",\"folders\":\"{}\",\"hierarchy\":\"[{\\\"id\\\":24169732,\\\"children\\\":[{\\\"id\\\":23757922,\\\"children\\\":[],\\\"position\\\":0,\\\"createdAt\\\":\\\"2025-05-12T20:49:44.061Z\\\",\\\"parentDeckId\\\":24169732,\\\"rootDeckId\\\":24169732}],\\\"position\\\":0,\\\"createdAt\\\":\\\"2025-05-16T12:50:36.131Z\\\",\\\"parentDeckId\\\":null,\\\"rootDeckId\\\":24169732}]\",\"templates\":\"[{\\\"id\\\":\\\"front_to_back\\\",\\\"title\\\":\\\"Back to Front\\\",\\\"fields\\\":[{\\\"id\\\":\\\"front_side\\\",\\\"title\\\":\\\"Front side\\\",\\\"isRequired\\\":true},{\\\"id\\\":\\\"back_side\\\",\\\"title\\\":\\\"Back side\\\",\\\"isRequired\\\":true}],\\\"isDefault\\\":true}]\",\"hasDecksEverBeenLoaded\":\"true\",\"lightHierarchy\":\"{\\\"folders\\\":[],\\\"decks\\\":[{\\\"id\\\":24169732,\\\"isRootDeck\\\":true,\\\"rootDeckId\\\":24169732,\\\"name\\\":\\\"Advanced English Vocabulary for Daily Life\\\",\\\"state\\\":\\\"active\\\",\\\"folderId\\\":null,\\\"algorithmType\\\":\\\"spacedRepetition\\\",\\\"algorithmPreset\\\":\\\"general\\\",\\\"collaboration\\\":{\\\"count\\\":0,\\\"role\\\":\\\"owner\\\",\\\"state\\\":\\\"disabled\\\"},\\\"children\\\":[{\\\"id\\\":23757922,\\\"isRootDeck\\\":false,\\\"rootDeckId\\\":24169732,\\\"name\\\":\\\"Nudge\\\",\\\"state\\\":\\\"active\\\",\\\"folderId\\\":null,\\\"algorithmType\\\":\\\"spacedRepetition\\\",\\\"algorithmPreset\\\":\\\"general\\\",\\\"collaboration\\\":{\\\"count\\\":0,\\\"role\\\":\\\"owner\\\",\\\"state\\\":\\\"disabled\\\"},\\\"children\\\":[]}]}]}\",\"expandedDeckIds\":\"[]\",\"_persist\":\"{\\\"version\\\":2,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "amplitude_unsent_79f9d3facc7e9d4ab189211d1bc9e9b6",
+          "value": "[]"
+        },
+        {
+          "name": "__mpq_5a4a9622feac747dde22dbe6f8694b40_ev",
+          "value": "[{\"id\":\"m4utxcijvf5ipbh3\",\"flushAfter\":1750160539792,\"payload\":{\"event\":\"Page View\",\"properties\":{\"$os\":\"Mac OS X\",\"$browser\":\"Chrome\",\"$current_url\":\"https://noji.io/\",\"$browser_version\":138,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.65.0\",\"$insert_id\":\"8hts0n8q2b96mph2\",\"time\":1750160529.792,\"mp_loader\":\"gtm\",\"distinct_id\":\"$device:0c1b2c4b-1936-42ec-9800-f15ab5ff81c3\",\"$device_id\":\"0c1b2c4b-1936-42ec-9800-f15ab5ff81c3\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"page_location\":\"https://noji.io/\",\"token\":\"5a4a9622feac747dde22dbe6f8694b40\",\"mp_sent_by_lib_version\":\"2.65.0\"}}}]"
+        },
+        {
+          "name": "persist:cardPresets",
+          "value": "{\"cardPresetsMap\":\"{\\\"1\\\":{\\\"id\\\":1,\\\"userId\\\":null,\\\"name\\\":\\\"Default\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":null,\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":null,\\\"fontFamily\\\":\\\"default\\\",\\\"fontAlignment\\\":null,\\\"fontColor\\\":null,\\\"borderThickness\\\":null,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":null,\\\"customCss\\\":null,\\\"dark\\\":{\\\"fontColor\\\":null,\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":null,\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":null,\\\"customCss\\\":null},\\\"fontSize\\\":null,\\\"wordSpacing\\\":null,\\\"lineSpacing\\\":null},\\\"2\\\":{\\\"id\\\":2,\\\"userId\\\":null,\\\"name\\\":\\\"1\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/49836085-0c36-4496-a46e-784987dbf23a.jpg\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/a72efa46-7775-460c-815a-da7dc0228cc1.jpg\\\",\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"indieFlower\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#2E2E2E\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/58ffb72c-3a01-4b45-827d-6aa1b4f54910.svg\\\",\\\"separatorColor\\\":null,\\\"customCss\\\":\\\"cloze{background-color:#ddf1ff;border-bottom:2px solid #009dff}.ttsContainer,tts{background-color:#f2f2f2}tts{border:2px solid #c1c1c3}.ttsButtonPause{background-color:#009dff}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/fd256cb5-2130-4c62-8edd-2b8364aebcbb.png\\\",\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/059d0964-2f4f-4b6e-a9ab-41c3de151f2f.png\\\",\\\"separatorImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/2/725a9a0e-9ab9-4956-a792-3edd9fdd7ac3.svg\\\",\\\"separatorColor\\\":null,\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#292626}.ttsButtonPause{background-color:#FFFFFF}\\\"},\\\"fontSize\\\":24,\\\"lineSpacing\\\":28.8},\\\"3\\\":{\\\"id\\\":3,\\\"userId\\\":null,\\\"name\\\":\\\"2\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/3/cf449fcf-76fd-46ee-87d7-5cd6d35457bb.jpg\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/3/d78afa31-68f3-41a2-8a8d-983984486410.jpeg\\\",\\\"cornerRadius\\\":15,\\\"fontFamily\\\":\\\"montserrat\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#2E2E2E\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":1,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#ddf1ff;border-bottom:2px solid #009dff}.ttsContainer,tts{background-color:#f2f2f2}tts{border:2px solid #c1c1c3}.ttsButtonPause{background-color:#99999b}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/3/7dbf584b-71e8-472e-aef6-2b34c85c90df.jpg\\\",\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/3/5e0dcb76-94c9-4ff3-9ecf-6bb9da616a3c.jpg\\\",\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#81888A\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#494949}.ttsButtonPause{background-color:#E6E6E6}\\\"},\\\"fontSize\\\":20,\\\"lineSpacing\\\":28},\\\"4\\\":{\\\"id\\\":4,\\\"userId\\\":null,\\\"name\\\":\\\"3\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/ac353b7d-c79b-46ae-9da3-80badcee5c2d.jpeg\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/e04f4ec9-6603-4c7b-b53b-bcd65ec08042.jpeg\\\",\\\"cornerRadius\\\":15,\\\"fontFamily\\\":\\\"indieFlower\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#4E5EE5\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":0,\\\"separatorImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/ade42106-e2b3-4666-a042-2e8f80104c98.svg\\\",\\\"separatorColor\\\":null,\\\"customCss\\\":\\\"cloze{background-color:#a1e3eb;border-bottom:2px solid #0dafc2}tts{background-color:#ecd0d0;border:2px solid #f6a0a1}.ttsContainer{background-color:#e0e0e0}.ttsButtonPause{background-color:#1e44a5}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#DBDFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/84314570-ced3-404b-a304-90bc5752fe47.png\\\",\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/1e730369-2070-44c5-bedc-173c58822f31.png\\\",\\\"separatorImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/4/3faab4bf-acab-4f99-a7af-5282050a11fc.svg\\\",\\\"separatorColor\\\":null,\\\"customCss\\\":\\\"cloze{background-color:#384F52;border-bottom:2px solid #4AECFF}tts{background-color:#3B3434;border:2px solid #A86D6E}.ttsContainer{background-color:#2D3548}.ttsButtonPause{background-color:#C2D3FF}\\\"},\\\"fontSize\\\":28,\\\"lineSpacing\\\":34.16},\\\"5\\\":{\\\"id\\\":5,\\\"userId\\\":null,\\\"name\\\":\\\"4\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/5/725f8ba2-b02d-4837-8319-9413991dba46.jpeg\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/5/ac9fe813-2574-4a71-915b-8b449f76960c.jpeg\\\",\\\"cornerRadius\\\":8,\\\"fontFamily\\\":\\\"merriWeather\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#7B5739\\\",\\\"borderThickness\\\":2,\\\"borderColor\\\":\\\"#F7EEDF\\\",\\\"separatorThickness\\\":1,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#9E765330\\\",\\\"customCss\\\":\\\"cloze{background-color:#ffd690;border-bottom:2px solid #ff8b00}tts{background-color:#feeac7;border:2px solid #cda251}.ttsContainer{background-color:#eedaba}.ttsButtonPause{background-color:#9e7653}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFEEE0\\\",\\\"borderColor\\\":\\\"#5F4C2C\\\",\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/5/20e92da0-8835-4fa0-889b-6ca795bf7873.jpg\\\",\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/5/db77cee8-d698-4319-a060-1bf9ce099c22.jpg\\\",\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#FFF4EB4D\\\",\\\"customCss\\\":\\\"cloze{background-color:#51380F;border-bottom:2px solid #FFD7A7}tts{background-color:#60594D;border:2px solid #FFD7A7}.ttsContainer{background-color:#9A9182}.ttsButtonPause{background-color:#FFD8B6}\\\"},\\\"fontSize\\\":20,\\\"lineSpacing\\\":27.17},\\\"6\\\":{\\\"id\\\":6,\\\"userId\\\":null,\\\"name\\\":\\\"5\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/6/11f28f87-04d8-40f8-b2bc-97b03d8a63e7.jpg\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/6/8ddc0601-54e4-40fe-a841-437fa5abb373.jpeg\\\",\\\"cornerRadius\\\":4,\\\"fontFamily\\\":\\\"robotoMono\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#000000\\\",\\\"borderThickness\\\":4,\\\"borderColor\\\":\\\"#000032\\\",\\\"separatorThickness\\\":4,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#000032\\\",\\\"customCss\\\":\\\"cloze{background-color:#8fd4ff;border-bottom:2px solid #0093f0}tts{background-color:#f0f0f0;border:2px solid #d8d4ce}.ttsContainer{background-color:#e0e0e0}.ttsButtonPause{background-color:#000032}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":\\\"#CACAE5\\\",\\\"cardBackgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/6/f7fe1ebe-97a1-4731-a687-0eca536975ed.png\\\",\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/6/4cda5a6f-b7d1-43db-968c-3b2f87c168db.jpg\\\",\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#CACAE5\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}tts{background-color:#504D49;border:2px solid #6D6D6D}.ttsContainer{background-color:#6C6C7A}.ttsButtonPause{background-color:#BEBEFF}\\\"},\\\"fontSize\\\":20,\\\"lineSpacing\\\":27.17},\\\"7\\\":{\\\"id\\\":7,\\\"userId\\\":null,\\\"name\\\":\\\"6\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/7/078a7a4e-0ebd-4a1f-84e2-0cd567d981f0.png\\\",\\\"cardBackgroundColor\\\":\\\"#F2F2F2\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":32,\\\"fontFamily\\\":\\\"montserrat\\\",\\\"fontAlignment\\\":null,\\\"fontColor\\\":\\\"#2E2E2E\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":1,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#DDF1FF;border-bottom:2px solid #009DFF}tts{background-color:#E3E3E3;border:2px solid #B6B6B6}.ttsContainer{background-color:#E3E3E3}.ttsButtonPause{background-color:#3C3C3C}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#262424\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/7/c30c931a-9fc6-43ef-9c89-0a60c40ce065.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}tts{background-color:#504D49;border:2px solid #6D6D6D}.ttsContainer{background-color:#515151}.ttsButtonPause{background-color:#F2F2F2}\\\"},\\\"fontSize\\\":null,\\\"wordSpacing\\\":null,\\\"lineSpacing\\\":null},\\\"8\\\":{\\\"id\\\":8,\\\"userId\\\":null,\\\"name\\\":\\\"7\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/8/06e12da0-6caf-4f25-a737-2601e818140a.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":15,\\\"fontFamily\\\":\\\"montserrat\\\",\\\"fontAlignment\\\":null,\\\"fontColor\\\":\\\"#2E2E2E\\\",\\\"borderThickness\\\":2,\\\"borderColor\\\":\\\"#000000\\\",\\\"separatorThickness\\\":1,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#ddf1ff;border-bottom:2px solid #009dff}.ttsContainer,tts{background-color:#f2f2f2}tts{border:2px solid #c1c1c3}.ttsButtonPause{background-color:#99999b}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/8/49159e61-84c5-40b4-a2c8-2c98db7812e5.jpg\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#292626}.ttsButtonPause{background-color:#FFFFFF}\\\"},\\\"fontSize\\\":null,\\\"wordSpacing\\\":null,\\\"lineSpacing\\\":null},\\\"9\\\":{\\\"id\\\":9,\\\"userId\\\":null,\\\"name\\\":\\\"8\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/9/0068fd55-d806-4f58-aa43-6b16cf619ca7.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"default\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#D3D3D3\\\",\\\"customCss\\\":\\\"cloze{background-color:#DDF1FF;border-bottom:2px solid #009DFF}.ttsContainer,tts{background-color:#F2F2F2}tts{border:2px solid #C1C1C3}.ttsContainer{background-color:#F2F2F2}.ttsButtonPause{background-color:#6796FE}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/9/29e727f7-95c4-429c-a616-8806c9951e75.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#676767\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#313131}.ttsButtonPause{background-color:#FFFFFF}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8},\\\"10\\\":{\\\"id\\\":10,\\\"userId\\\":null,\\\"name\\\":\\\"9\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/10/921830c5-00d4-46b2-9531-96c8a01f6017.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"kumbhSans\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#DDF1FF;border-bottom:2px solid #009DFF}.ttsContainer,tts{background-color:#F2F2F2}tts{border:2px solid #C1C1C3}.ttsContainer{background-color:#F2F2F2}.ttsButtonPause{background-color:#009DFF}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/10/ce9a7750-e2ef-470f-91e0-5aa453349508.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#81888A\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#494949}.ttsButtonPause{background-color:#E6E6E6}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8},\\\"11\\\":{\\\"id\\\":11,\\\"userId\\\":null,\\\"name\\\":\\\"10\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/11/1be4a3a5-3a87-4b3b-a19a-73ef007424dc.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFDF5\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"tinos\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#55555F\\\",\\\"customCss\\\":\\\"cloze{background-color:#D9EBD4;border-bottom:2px solid #91CF4D}.ttsContainer,tts{background-color:#ECECEC}tts{border:2px solid #D5D5D5}.ttsContainer{background-color:#E0E0E0}.ttsButtonPause{background-color:#3CA900}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1E261C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/11/ad348dbf-359c-4781-9890-7ccff5f7aef6.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#81888A\\\",\\\"customCss\\\":\\\"cloze{background-color:#22600F;border-bottom:2px solid #91CF4D}.ttsContainer,tts{background-color:#626262}tts{border:2px solid #6E6E6E}.ttsContainer{background-color:#3B5C1D}.ttsButtonPause{background-color:#B0E791}\\\"},\\\"fontSize\\\":28,\\\"lineSpacing\\\":28.8},\\\"12\\\":{\\\"id\\\":12,\\\"userId\\\":null,\\\"name\\\":\\\"11\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/12/b0bd9639-2e30-44b8-a6b7-c574cae67bb5.png\\\",\\\"cardBackgroundColor\\\":null,\\\"cardBackgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/12/47eec43b-87e5-4762-9294-0eca50202a1a.jpeg\\\",\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"sourceCodePro\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#9E76534D\\\",\\\"customCss\\\":\\\"cloze{background-color:#CCD8FB;border-bottom:2px solid #0C2D67}.ttsContainer,tts{background-color:#ECECED}tts{border:2px solid #CCD8FB}.ttsContainer{background-color:#D5D7E0}.ttsButtonPause{background-color:#0C2D67}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/12/eaf1558a-16c0-4578-b47d-bcc9dc559baa.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#9E76534D\\\",\\\"customCss\\\":\\\"cloze{background-color:#0C2D67;border-bottom:2px solid #E0D5E5}.ttsContainer,tts{background-color:#494949}tts{border:2px solid #CCD8FB}.ttsContainer{background-color:#B0B2B9}.ttsButtonPause{background-color:#4C75BD}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8},\\\"13\\\":{\\\"id\\\":13,\\\"userId\\\":null,\\\"name\\\":\\\"12\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/13/04c26aac-9557-41e8-a5b1-1c7f1d2c050a.png\\\",\\\"cardBackgroundColor\\\":\\\"#F4F1EC\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"golosText\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#000000\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":4,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#CCCFC5\\\",\\\"customCss\\\":\\\"cloze{background-color:#CCCFC5;border-bottom:2px solid #625E5E}.ttsContainer,tts{background-color:#F0F0F0}tts{border:2px solid #D8D4CE}.ttsContainer{background-color:#CCCFC5}.ttsButtonPause{background-color:#373746}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/13/abd8a840-9044-45ac-b3d4-d2cda89da839.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#656565\\\",\\\"customCss\\\":\\\"cloze{background-color:#5E5E5E;border-bottom:2px solid #CCCFC5}.ttsContainer,tts{background-color:#202020}tts{border:2px solid #CCCFC5}.ttsContainer{background-color:#656565}.ttsButtonPause{background-color:#CCCFC5}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8},\\\"14\\\":{\\\"id\\\":14,\\\"userId\\\":null,\\\"name\\\":\\\"13\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/14/79a88f23-10b8-4d76-8894-5e6be216f7d8.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"montserrat\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#DDF1FF;border-bottom:2px solid #009DFF}.ttsContainer,tts{background-color:#F2F2F2}tts{border:2px solid #C1C1C3}.ttsContainer{background-color:#F2F2F2}.ttsButtonPause{background-color:#7FDBBE}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#1F1C1C\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/14/16e5cfe6-de27-4563-a3cb-63b1348c821c.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#094869;border-bottom:2px solid #72C8FF}.ttsContainer,tts{background-color:#292626}tts{border:2px solid #717173}.ttsContainer{background-color:#292626}.ttsButtonPause{background-color:#FFFFFF}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8},\\\"15\\\":{\\\"id\\\":15,\\\"userId\\\":null,\\\"name\\\":\\\"14\\\",\\\"backgroundColor\\\":null,\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/15/e9228246-c1a6-45f4-abfe-d297a27da844.png\\\",\\\"cardBackgroundColor\\\":\\\"#FFFFFF\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"cornerRadius\\\":0,\\\"fontFamily\\\":\\\"montserrat\\\",\\\"fontAlignment\\\":\\\"center\\\",\\\"fontColor\\\":\\\"#302F37\\\",\\\"borderThickness\\\":0,\\\"borderColor\\\":null,\\\"separatorThickness\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#E0E0E0;border-bottom:2px solid #2E2E2E}.ttsContainer,tts{background-color:#E3E3E3}tts{border:2px solid #B6B6B6}.ttsContainer{background-color:#E3E3E3}.ttsButtonPause{background-color:#3C3C3C}\\\",\\\"dark\\\":{\\\"fontColor\\\":\\\"#FFFFFF\\\",\\\"borderColor\\\":null,\\\"cardBackgroundColor\\\":\\\"#292626\\\",\\\"backgroundImageUrl\\\":\\\"https://cdn-proxy-us.noji.io/uploads/card_presets/15/95b40f3f-3df6-46bf-85e9-533201bed1e8.png\\\",\\\"cardBackgroundImageUrl\\\":null,\\\"separatorImageUrl\\\":null,\\\"separatorColor\\\":\\\"#93999B\\\",\\\"customCss\\\":\\\"cloze{background-color:#757575;border-bottom:2px solid #FFFFFF}.ttsContainer,tts{background-color:#505050}tts{border:2px solid #757575}.ttsContainer{background-color:#515151}.ttsButtonPause{background-color:#F2F2F2}\\\"},\\\"fontSize\\\":25,\\\"lineSpacing\\\":28.8}}\",\"cardPresetIds\":\"[1,4,10,7,2,15,8,5,9,14,13,6,12,11,3]\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 18 Jun 2025 11:42:10 GMT"
+        },
+        {
+          "name": "_uetvid",
+          "value": "1a504f804b7011f0a46c753fe2d86a22"
+        },
+        {
+          "name": "SyncStorage_AppVersion",
+          "value": "\"2.12.1\""
+        },
+        {
+          "name": "locale",
+          "value": "en"
+        },
+        {
+          "name": "persist:rte",
+          "value": "{\"toolsSettings\":\"[]\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "amplitude_unsent_identify_79f9d3facc7e9d4ab189211d1bc9e9b6",
+          "value": "[]"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"rte\":\"{\\\"toolsSettings\\\":[],\\\"_persist\\\":{\\\"version\\\":1,\\\"rehydrated\\\":true}}\",\"admin\":\"{\\\"experiments\\\":{}}\",\"auth\":\"{\\\"isFetchingSession\\\":false,\\\"user\\\":{\\\"id\\\":7116933,\\\"avatarColor\\\":{\\\"light\\\":\\\"#FF375B\\\",\\\"dark\\\":\\\"#FF5C6C\\\"},\\\"avatarUrl\\\":null,\\\"name\\\":\\\"Pouria\\\",\\\"username\\\":\\\"pouriamousavi\\\",\\\"about\\\":null,\\\"analyticsId\\\":\\\"f5e05571d043613d1c2fe60aaa92e624ddf7684b51dc9732\\\",\\\"countryCode\\\":\\\"SE\\\",\\\"email\\\":\\\"pouria.contact@gmail.com\\\",\\\"experiments\\\":{\\\"push_badge\\\":\\\"test\\\",\\\"ai_features\\\":\\\"test\\\",\\\"image_search\\\":\\\"test\\\",\\\"offline_mode\\\":\\\"test\\\",\\\"onboarding_v3\\\":\\\"control\\\",\\\"main_screen_exp1\\\":\\\"control\\\",\\\"perf_improv_batch\\\":\\\"test\\\",\\\"algorithm_settings\\\":\\\"test\\\",\\\"leave_review_hooks\\\":\\\"test_cute\\\",\\\"web_main_screen_exp1\\\":\\\"test_reg_btn\\\",\\\"library_social_proof1\\\":\\\"test\\\",\\\"new_cards_per_day_upd\\\":\\\"disabled\\\",\\\"rte_ai_improvements_1\\\":\\\"test_assist\\\",\\\"web_colorful_paywalls\\\":\\\"disabled\\\",\\\"back_to_school_paywall\\\":\\\"control\\\",\\\"onboarding_improvements\\\":\\\"test\\\",\\\"streak_saver_experiment\\\":\\\"test\\\",\\\"select_and_search_banner\\\":\\\"control\\\",\\\"web_annual_discount_banner\\\":\\\"test\\\"},\\\"environment\\\":\\\"production\\\",\\\"premium\\\":false,\\\"provider\\\":\\\"google\\\",\\\"onboardingData\\\":{\\\"languageFocus\\\":\\\"both\\\",\\\"languageKey\\\":\\\"english\\\",\\\"languageLevel\\\":\\\"fluent\\\"},\\\"statsCounters\\\":{\\\"cardsCreated\\\":134,\\\"cardsStudied\\\":294},\\\"streak\\\":{\\\"currentDuration\\\":0,\\\"availableFreezeCount\\\":0,\\\"totalActiveDays\\\":10,\\\"longestDuration\\\":5,\\\"nextFreezeMinimumStreak\\\":7,\\\"todayCompleted\\\":false,\\\"todayShown\\\":false},\\\"subscription\\\":null,\\\"subscriptionProvider\\\":null,\\\"qonId\\\":\\\"ddef0d1a8e664e869927e04d55040961\\\",\\\"freeTier\\\":{\\\"aiGenWithPrompt\\\":2,\\\"aiGenWithPdf\\\":100,\\\"aiGenCardBuilder\\\":0},\\\"createdAt\\\":1747082296},\\\"token\\\":\\\"eyJhbGciOiJIUzI1NiJ9.eyJpZCI6NzExNjkzMywiYXZhdGFyQ29sb3IiOnsibGlnaHQiOiIjRkYzNzVCIiwiZGFyayI6IiNGRjVDNkMifSwiYXZhdGFyVXJsIjpudWxsLCJuYW1lIjoiUG91cmlhIiwibmV3QXJjaGl0ZWN0dXJlIjp0cnVlLCJ1c2VybmFtZSI6InBvdXJpYW1vdXNhdmkiLCJhYm91dCI6bnVsbCwiYW5hbHl0aWNzSWQiOiJmNWUwNTU3MWQwNDM2MTNkMWMyZmU2MGFhYTkyZTYyNGRkZjc2ODRiNTFkYzk3MzIiLCJjb3VudHJ5Q29kZSI6IlNFIiwiZW1haWwiOiJwb3VyaWEuY29udGFjdEBnbWFpbC5jb20iLCJleHBlcmltZW50cyI6eyJwdXNoX2JhZGdlIjoidGVzdCIsImFpX2ZlYXR1cmVzIjoidGVzdCIsImltYWdlX3NlYXJjaCI6InRlc3QiLCJvZmZsaW5lX21vZGUiOiJ0ZXN0Iiwib25ib2FyZGluZ192MyI6ImNvbnRyb2wiLCJtYWluX3NjcmVlbl9leHAxIjoiY29udHJvbCIsInBlcmZfaW1wcm92X2JhdGNoIjoidGVzdCIsImFsZ29yaXRobV9zZXR0aW5ncyI6InRlc3QiLCJsZWF2ZV9yZXZpZXdfaG9va3MiOiJ0ZXN0X2N1dGUiLCJ3ZWJfbWFpbl9zY3JlZW5fZXhwMSI6InRlc3RfcmVnX2J0biIsImxpYnJhcnlfc29jaWFsX3Byb29mMSI6InRlc3QiLCJuZXdfY2FyZHNfcGVyX2RheV91cGQiOiJkaXNhYmxlZCIsInJ0ZV9haV9pbXByb3ZlbWVudHNfMSI6InRlc3RfYXNzaXN0Iiwid2ViX2NvbG9yZnVsX3BheXdhbGxzIjoiZGlzYWJsZWQiLCJiYWNrX3RvX3NjaG9vbF9wYXl3YWxsIjoiY29udHJvbCIsIm9uYm9hcmRpbmdfaW1wcm92ZW1lbnRzIjoidGVzdCIsInN0cmVha19zYXZlcl9leHBlcmltZW50IjoidGVzdCIsInNlbGVjdF9hbmRfc2VhcmNoX2Jhbm5lciI6ImNvbnRyb2wiLCJ3ZWJfYW5udWFsX2Rpc2NvdW50X2Jhbm5lciI6InRlc3QifSwiZW52aXJvbm1lbnQiOiJwcm9kdWN0aW9uIiwicHJlbWl1bSI6ZmFsc2UsInByb3ZpZGVyIjoiZ29vZ2xlIiwib25ib2FyZGluZ0RhdGEiOnsibGFuZ3VhZ2VGb2N1cyI6ImJvdGgiLCJsYW5ndWFnZUtleSI6ImVuZ2xpc2giLCJsYW5ndWFnZUxldmVsIjoiZmx1ZW50In0sInN0YXRzQ291bnRlcnMiOnsiY2FyZHNDcmVhdGVkIjoxMzQsImNhcmRzU3R1ZGllZCI6Mjk0fSwic3RyZWFrIjp7ImN1cnJlbnREdXJhdGlvbiI6MCwiYXZhaWxhYmxlRnJlZXplQ291bnQiOjAsInRvdGFsQWN0aXZlRGF5cyI6MTAsImxvbmdlc3REdXJhdGlvbiI6NSwibmV4dEZyZWV6ZU1pbmltdW1TdHJlYWsiOjcsInRvZGF5Q29tcGxldGVkIjpmYWxzZSwidG9kYXlTaG93biI6ZmFsc2V9LCJzdWJzY3JpcHRpb24iOm51bGwsInN1YnNjcmlwdGlvblByb3ZpZGVyIjpudWxsLCJxb25JZCI6ImRkZWYwZDFhOGU2NjRlODY5OTI3ZTA0ZDU1MDQwOTYxIiwiZnJlZVRpZXIiOnsiYWlHZW5XaXRoUHJvbXB0IjoyLCJhaUdlbldpdGhQZGYiOjEwMCwiYWlHZW5DYXJkQnVpbGRlciI6MH0sImNyZWF0ZWRBdCI6MTc0NzA4MjI5Nn0.ljFsh19Gicm2WtyS7s8zuJa0N6i1dhVKpY7Y8Vrq2E0\\\",\\\"isNewUser\\\":false}\",\"_persist\":\"{\\\"version\\\":4,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:folders",
+          "value": "{\"folders\":\"[]\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}
