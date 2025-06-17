@@ -33,7 +33,7 @@ async function loginIfNeeded(page) {
 }
 
 async function addFlashcard({ question, answer }) {
-  const browser = await chromium.launch({ headless: false }); // set to true after debugging
+  const browser = await chromium.launch({ headless: true }); // set to true after debugging
 
   const storagePath = "storageState.json";
   const useStorage =
